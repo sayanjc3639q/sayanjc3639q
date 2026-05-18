@@ -64,14 +64,14 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayanMaity456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayanMaity456&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayanjc3639q&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanjc3639q&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35" alt="GitHub Streak" width="48%" />
 </div>
 
 ## 🏆 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanMaity456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanjc3639q&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35" alt="Top Languages" width="40%" />
 </div>
 
 ## 🔗 Connect With Me
