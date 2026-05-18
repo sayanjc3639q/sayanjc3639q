@@ -86,7 +86,16 @@ Hello! I'm an **energetic and curious electrical engineering student** with a de
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanjc3639q&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&border_radius=10)
+### 🏆 Top Languages
+
+<!-- Option A: Direct API (preferred) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanjc3639q&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&border_radius=10" 
+     alt="Top Languages" 
+     onerror="this.onerror=null; this.src='https://via.placeholder.com/400x200?text=Language+Stats+Temporarily+Unavailable';" />
+
+<!-- Option B: With fallback text if image fails -->
+<br/>
+<sub>*Language statistics may take a moment to load. If missing, refresh or check back later.*</sub>
 
 </div>
 
