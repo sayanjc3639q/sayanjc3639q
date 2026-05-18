@@ -1,21 +1,103 @@
-# 💫 About Me:
-Hello I am Sayan ! <br>Welcome to my github profile.<br>I am a electrical engineering student at Haldia Institute of Technology<br>Currently I am working on a React Project EEvolution 2.0<br>Doing DSA in C++ , deep diving into object oriented Programming<br>Exploring embeded programming in C<br>Web Developer at The HIT Times and Eklavya
+# Sayan Maity 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B35&center=true&vCenter=true&width=1000&lines=Redstone+Engineer+%F0%9F%9A%80;Electrical+Engineering+Student;Frontend+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/sayanjc3639q) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/sayan.void) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linked.com/sayanjc3639q) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/jcsayan7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@sayanmaity.com) 
+## 🌟 About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sayanjc3639q&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sayanjc3639q&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanjc3639q&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| Attribute | Details |
+|-----------|---------|
+| **Name** | Sayan Maity |
+| **Role** | Electrical Engineering Student & Frontend Developer |
+| **Institution** | Haldia Institute of Technology |
+| **Location** | India |
+| **Passion** | Building interactive web experiences with cutting-edge technology |
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sayanjc3639q&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+| Category | Technologies |
+|----------|--------------|
+| **Core** | React, React DOM, Vite |
+| **Styling** | Tailwind CSS, PostCSS, Autoprefixer |
+| **Animation** | GSAP, Framer Motion, Lucide React |
+| **Routing** | React Router DOM |
+| **Backend Services** | Firebase |
+
+### Development Tools
+
+| Category | Tools |
+|----------|-------|
+| **Package Manager** | npm / yarn |
+| **Build Tool** | Vite |
+| **Code Quality** | ESLint |
+| **Version Control** | Git & GitHub |
+
+## 📊 GitHub Analytics
+
+| Metric | Status |
+|--------|--------|
+| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=SayanMaity456&color=FF6B35) |
+| **Followers** | ![Followers](https://img.shields.io/github/followers/SayanMaity456?style=social) |
+| **Stars** | ![Stars](https://img.shields.io/github/stars/SayanMaity456?style=social) |
+
+## 🚀 Featured Project: Redstone Engineer
+
+| Aspect | Details |
+|--------|---------|
+| **Repository** | [SayanMaity456/SayanMaity456](https://github.com/SayanMaity456/SayanMaity456) |
+| **Live Demo** | [redstoneengineer.site](https://redstoneengineer.site) |
+| **Tech Stack** | React 19, Tailwind CSS, GSAP, Framer Motion, Firebase |
+| **Type** | Interactive Portfolio & Experimental Tech Hub |
+
+### Key Features
+
+| Feature | Description |
+|---------|-------------|
+| 🎨 **Dynamic UI** | Modern, responsive interface with smooth interactions |
+| ✨ **Advanced Animations** | GSAP + Framer Motion for fluid motion design |
+| 🧪 **Invention Lab** | Dedicated space for experimental tech explorations |
+| 🏛️ **Monoliths Showcase** | Structured display of major projects |
+| 🔐 **Admin Dashboard** | Secure content management system |
+| 🔄 **Real-time Data** | Firebase-powered backend services |
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SayanMaity456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayanMaity456&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35" alt="GitHub Streak" width="48%" />
+</div>
+
+## 🏆 Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanMaity456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35" alt="Top Languages" width="40%" />
+</div>
+
+## 🔗 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| **🌐 Website** | [sayanmaity.com](https://sayanmaity.com) |
+| **💼 GitHub** | [github.com/sayanjc3639q](https://github.com/sayanjc3639q) |
+| **📧 Email** | [me@sayanmaity.com](mailto:me@sayanmaity.com) |
+
+## 💡 Current Focus
+
+| Focus Area | Status |
+|------------|--------|
+| React 19 Features | 🚧 In Progress |
+| Advanced Animations | ✅ Active |
+| Firebase Integration | ✅ Active |
+| Performance Optimization | 🚧 In Progress |
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sayanjc3639q&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  
+### ⚡ "Building the future, one component at a time"
+
+**🌟 Thanks for visiting! Star this repo if you like it! 🌟**
+
+</div>
