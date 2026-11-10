@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180">
+  <defs>
+    <g id="leaf"><path d="M0 0C10-12 32-12 46 0 32 12 10 12 0 0Z"/><path d="M3 0H42" fill="none" stroke="#004b23" stroke-opacity=".55" stroke-width="1.2"/></g>
+  </defs>
+  <rect width="1200" height="180" fill="#050f08"/>
+
+  <path d="M0 90Q150 50 300 90T600 90T900 90T1200 90T1500 90T1800 90T2100 90T2400 90V180H0Z" fill="#004b23">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="14s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 112Q150 82 300 112T600 112T900 112T1200 112T1500 112T1800 112T2100 112T2400 112V180H0Z" fill="#007200">
+    <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 134Q150 108 300 134T600 134T900 134T1200 134T1500 134T1800 134T2100 134T2400 134V180H0Z" fill="#38b000" stroke="#9ef01a" stroke-width="2">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- floating leaves -->
+  <g transform="translate(200 78)"><animateMotion dur="6s" repeatCount="indefinite" path="M0 0C30-10 60 10 90 0C60-10 30 10 0 0"/><g><animateTransform attributeName="transform" type="rotate" values="-20;20;-20" dur="4s" repeatCount="indefinite"/><use href="#leaf" fill="#70e000"/></g></g>
+  <g transform="translate(520 70)"><animateMotion dur="7s" begin="-2s" repeatCount="indefinite" path="M0 0C30-12 60 12 90 0C60-12 30 12 0 0"/><g><animateTransform attributeName="transform" type="rotate" values="15;-25;15" dur="5s" repeatCount="indefinite"/><use href="#leaf" fill="#9ef01a"/></g></g>
+  <g transform="translate(840 80)"><animateMotion dur="6.5s" begin="-4s" repeatCount="indefinite" path="M0 0C30-10 60 10 90 0C60-10 30 10 0 0"/><g><animateTransform attributeName="transform" type="rotate" values="-25;15;-25" dur="4.5s" repeatCount="indefinite"/><use href="#leaf" fill="#ccff33"/></g></g>
+  <g transform="translate(1050 74)"><animateMotion dur="7.5s" begin="-1s" repeatCount="indefinite" path="M0 0C30-12 60 12 90 0C60-12 30 12 0 0"/><g><animateTransform attributeName="transform" type="rotate" values="10;-20;10" dur="5.5s" repeatCount="indefinite"/><use href="#leaf" fill="#70e000"/></g></g>
+</svg>

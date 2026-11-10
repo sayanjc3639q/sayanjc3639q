@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Sayan Maity, Electrical Engineer and Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050f08"/><stop offset=".55" stop-color="#004b23"/><stop offset="1" stop-color="#006400"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy="0" r=".8">
+      <stop offset="0" stop-color="#9ef01a" stop-opacity=".35"/><stop offset="1" stop-color="#9ef01a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ray" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ccff33" stop-opacity=".28"/><stop offset="1" stop-color="#ccff33" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" x2="1">
+      <stop offset="0" stop-color="#70e000"/><stop offset="1" stop-color="#ccff33"/>
+    </linearGradient>
+    <g id="leaf">
+      <path d="M0 0C12-15 40-15 56 0 40 15 12 15 0 0Z"/>
+      <path d="M3 0H50" fill="none" stroke="#004b23" stroke-opacity=".55" stroke-width="1.5"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+
+  <!-- light rays -->
+  <polygon points="380,0 470,0 700,300 500,300" fill="url(#ray)"><animate attributeName="opacity" values=".3;.9;.3" dur="7s" repeatCount="indefinite"/></polygon>
+  <polygon points="700,0 760,0 1000,300 860,300" fill="url(#ray)"><animate attributeName="opacity" values=".8;.2;.8" dur="9s" repeatCount="indefinite"/></polygon>
+  <polygon points="130,0 190,0 330,300 220,300" fill="url(#ray)"><animate attributeName="opacity" values=".2;.7;.2" dur="11s" repeatCount="indefinite"/></polygon>
+
+  <!-- falling leaves -->
+  <g><animateMotion dur="11s" begin="-2s" repeatCount="indefinite" path="M90,-40 C140,60 40,170 110,340"/><g transform="scale(.9)"><g><animateTransform attributeName="transform" type="rotate" values="-60;60;-60" dur="5s" repeatCount="indefinite"/><use href="#leaf" transform="translate(-28 0)" fill="#38b000"/></g></g></g>
+  <g><animateMotion dur="14s" begin="-9s" repeatCount="indefinite" path="M250,-40 C300,70 200,180 270,340"/><g transform="scale(.6)"><g><animateTransform attributeName="transform" type="rotate" values="-70;50;-70" dur="4s" repeatCount="indefinite"/><use href="#leaf" transform="translate(-28 0)" fill="#70e000"/></g></g></g>
+  <g><animateMotion dur="13s" begin="-5s" repeatCount="indefinite" path="M380,-40 C430,60 330,200 400,340"/><g transform="scale(1.1)"><g><animateTransform attributeName="transform" type="rotate" values="-50;70;-50" dur="6s" repeatCount="indefinite"/><use href="#leaf" transform="translate(-28 0)" fill="#008000"/></g></g></g>
+  <g><animateMotion dur="10s" begin="-7s" repeatCount="indefinite" path="M520,-40 C570,80 470,160 540,340"/><g transform="scale(.5)"><g><animateTransform attributeName="transform" type="rotate" values="-65;65;-65" dur="3.5s" repeatCount="indefinite"/><use href="#leaf" transform="translate(-28 0)" fill="#9ef01a"/></g></g></g>
+  <g><animateMotion dur="15s" begin="-11s" repeatCount="indefinite" path="M700,-40 C750,70 650,190 720,340"/><g transform="scale(.8)"><g><animateTransform attributeName="transform" type="rotate" values="-55;55;-55" dur="5.5s" repeatCount="indefinite"/><use href="#leaf" transform="translate(-28 0)" fill="#ccff33"/></g></g></g>
+  <g><animateMotion dur="12s" begin="-1s" repeatCount="indefinite" path="M850,-40 C900,60 800,170 870,340"/><g transform="scale(1)"><g><animateTransform attributeName="transform" type="rotate" values="-60;60;-60" dur="6s" repeatCount="indefinite"/><use href="#leaf" transform="translate(-28 0)" fill="#38b000"/></g></g></g>
+  <g><animateMotion dur="9s" begin="-6s" repeatCount="indefinite" path="M980,-40 C1030,80 930,180 1000,340"/><g transform="scale(.6)"><g><animateTransform attributeName="transform" type="rotate" values="-70;50;-70" dur="4.5s" repeatCount="indefinite"/><use href="#leaf" transform="translate(-28 0)" fill="#70e000"/></g></g></g>
+  <g><animateMotion dur="14s" begin="-3s" repeatCount="indefinite" path="M1110,-40 C1160,60 1060,200 1130,340"/><g transform="scale(.9)"><g><animateTransform attributeName="transform" type="rotate" values="-55;65;-55" dur="5s" repeatCount="indefinite"/><use href="#leaf" transform="translate(-28 0)" fill="#007200"/></g></g></g>
+
+  <!-- title -->
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" text-anchor="middle">
+    <text x="600" y="148" font-size="68" font-weight="800" fill="url(#title)">Sayan Maity
+      <animate attributeName="opacity" from="0" to="1" dur="1.6s" fill="freeze"/>
+    </text>
+    <text x="600" y="198" font-size="21" letter-spacing="3" fill="#9ef01a">ELECTRICAL ENGINEER × FULL STACK DEVELOPER
+      <animate attributeName="opacity" from="0" to="1" begin=".6s" dur="1.6s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
