@@ -61,7 +61,6 @@
 **🎯 Goals**
 - 🥇 **Primary: Google DeepMind**
 - 9+ CGPA
-- Crack GATE
 - Internships at ISRO / DRDO / Microsoft
 
 **🧠 Learning Style**
