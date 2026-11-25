@@ -52,7 +52,7 @@
 
 **🏆 Highlights**
 - 9.5 SGPA in 1st Year
-- 1× Hackathon Winner
+- 2× Hackathon Winner
 - Member of Google Developer Groups (GDG)
 
 </td>
